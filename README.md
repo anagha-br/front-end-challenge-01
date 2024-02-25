@@ -1,7 +1,7 @@
 # Front-End Challenge Project
 
 ## Expected output
-The output must be a fork of this project and a working GitHub Pages deployment.
+The output must be a private fork of this project and a working deployment on a free hosting platform. You must invite the Github users anagha-br, Gramof0n, AlbertWigmore, mrob95, JakeRandellOC, and pepjo as Collaborators on the project.
 
 The fork must include all the necessary source code, dependencies files (such as package.json), this **unmodified** README.md file, and a [CONCLUSIONS.md](./CONCLUSIONS.md) file. The CONCLUSIONS.md contains a description of what it should contain.
 
@@ -10,6 +10,10 @@ The project must be completed in any framework supported by Astro (Astro templat
 ## Submission
 
 When you complete all your tasks or your time reaches the end, please submit the following [completion form](https://forms.gle/MQxaFd1s2DS2qqiC8). We expect most candidates to not be able to complete all tasks, please submit your incomplete project if you have not completed in the allocated time.
+
+The time of the submission for both form (start and end) is stored to be able to  
+
+We recommend you ensure the project is deploying correctly from the start, as that will be required for the submission.
 
 ## Evaluation criteria
 - The GitHub pages deployment works correctly. We encourage you to check before the submission time that everything works as expected to prevent last minute issues. 
