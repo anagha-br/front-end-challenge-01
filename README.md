@@ -115,8 +115,8 @@ There are many map front-ends currently available with the features required to 
 - [Bing Maps](https://www.bingmapsportal.com/) (might require a Microsoft account)
 - [Cesium](https://cesium.com/)
 
-<!-- In addition, if you are unfamiliar with this tools, you might want to check:
+In addition, if you are unfamiliar with this tools, you might want to check:
 
 - [Astro Docs](https://docs.astro.build/)
 - [Github Actions](https://docs.github.com/en/actions)
-- [Github Pages](https://docs.github.com/en/pages) -->
+- [Github Pages](https://docs.github.com/en/pages)
